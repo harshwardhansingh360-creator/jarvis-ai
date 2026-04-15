@@ -371,7 +371,7 @@ init_state()
 # ─────────────────────────────────────────────
 
 PROVIDERS = {
-    "gemini":     {"label": "Gemini 1.5 Flash (Google) — FREE",  "color": "#34d399", "placeholder": "AIza..."},
+    "gemini":     {"label": "Gemini 2.5 Flash (Google) — FREE",  "color": "#34d399", "placeholder": "AIza..."},
     "groq":       {"label": "Llama 3.1 70B via Groq — FREE",     "color": "#f59e0b", "placeholder": "gsk_..."},
     "openrouter": {"label": "Free Models via OpenRouter — FREE",  "color": "#a78bfa", "placeholder": "sk-or-..."},
     "claude":     {"label": "Claude Opus (Anthropic) — Paid",    "color": "#60a5fa", "placeholder": "sk-ant-..."},
